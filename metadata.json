@@ -1,0 +1,5 @@
+{
+  "name": "Win11 React Simulator",
+  "description": "A pixel-perfect, functional Windows 11 simulator built with React, TypeScript, and Tailwind CSS featuring window management, glassmorphism, and simulated apps.",
+  "requestFramePermissions": []
+}
